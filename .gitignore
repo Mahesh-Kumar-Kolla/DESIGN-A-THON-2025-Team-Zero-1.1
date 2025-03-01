@@ -3,3 +3,4 @@ pytorch_gpu/
 *.pyc
 __pycache__/
 *.log
+best_model.pth
