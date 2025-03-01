@@ -1,4 +1,5 @@
 deepfake_env/
+pytorch_gpu/
 *.pyc
 __pycache__/
 *.log

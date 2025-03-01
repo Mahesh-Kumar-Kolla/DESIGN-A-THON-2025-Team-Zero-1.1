@@ -9,3 +9,5 @@ tqdm
 pillow
 scikit-learn
 streamlit
+ipykernel
+jupyter
